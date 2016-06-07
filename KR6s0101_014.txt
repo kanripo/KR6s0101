@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:18:33.630569
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:23
 #+TITLE: 景祐新修法寶錄
 #+PROPERTY: CBETA_ID A112n1502
 #+PROPERTY: ID KR6s0101
@@ -11,7 +11,7 @@
 #+PROPERTY: JUAN 14
 
  
-總錄
+* 總錄
 【原經卷殘缺一版】¶
 
   
