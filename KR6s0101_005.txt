@@ -1,27 +1,29 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:18:33.427477
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:23
 #+TITLE: 景祐新修法寶錄
 #+PROPERTY: CBETA_ID A112n1502
 #+PROPERTY: ID KR6s0101
 #+PROPERTY: SOURCE Jin Edition of the Canon Vol. 112, No. 1502
 #+PROPERTY: VOL 112
 #+PROPERTY: BASEEDITION A
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0101_A_005-0187b> 
 #+PROPERTY: JUAN 5
-
- 景祐新修法寶錄卷第八　　　郡¶
+景祐新修法寶錄卷第八　　　郡¶
 (……¶
 …呂　夷簡　等奉¶
 勑都大㕘定編修)¶
 
-隨譯年代區別藏乘錄中之七¶
+* 隨譯年代區別藏乘錄中之七¶
 
-歸攝藏乘略明經旨一之七¶
+** 歸攝藏乘略明經旨一之七¶
 
-二年十二月起譯經一部一十八卷至五年四月譯成全部¶
+*** 二年十二月起譯經一部一十八卷
+<pb:KR6s0101_A_005-0188a>¶
+至五年四月譯成全部¶
 
-海意菩薩所問淨印法門經一部一十八卷¶
+**** 佛說海意菩薩所問淨印法門¶
+經一部一十八卷¶
 
 大乘經藏收無品目會分佛¶
 在神通境界大寶莊嚴最¶
@@ -93,7 +95,7 @@
 譯佛說海意菩薩所問淨¶
 印法門經一部一十八卷至¶
 今年四月譯成全部上之¶
-十五卷已進¶
+十五卷巳進¶
 御訖下之三卷今¶
 上進者伏以此經理趣沖微¶
 宗源窈邈始¶
